@@ -1,0 +1,7 @@
+Esta é a minha configuração de impressão:
+
+- A densidade de preenchimento - 15%
+
+- Bocal - 0,3 mm
+
+- Velocidade de impressão - 65

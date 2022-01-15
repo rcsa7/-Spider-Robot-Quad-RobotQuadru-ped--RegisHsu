@@ -1,0 +1,11 @@
+ localize a posição inicial para as pernas, confor figura (posicao inicial test)
+
+Este é um procedimento importante, o procedimento de instalação:
+
+1. carregue o código "legs_init" para o Arduino para ativar os servos
+
+2. posicione as pernas conforme a posição mostra a figura 1, e instale o servo balancim com os parafusos.
+
+3. aperte todo o parafuso
+
+---------------------------------------------------------------

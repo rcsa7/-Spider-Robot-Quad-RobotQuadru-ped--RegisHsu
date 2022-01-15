@@ -1,0 +1,63 @@
+[DIY] Spider Robot(Quad Robot, Quadruped)
+
+https://www.instructables.com/DIY-Spider-RobotQuad-robot-Quadruped/
+
+https://www.thingiverse.com/thing:1009659
+
+https://www.instructables.com/DIY-Spider-Robot-PART-II-Remote-control/
+
+https://www.circuito.io/blog/arduino-uno-pinout/
+
+---------lista de pecas para impressao------------------------------------
+Esta é a minha configuração de impressão:
+
+- A densidade de preenchimento - 15%
+
+- Bocal - 0,3 mm
+
+- Velocidade de impressão - 65
+
+Imprimir lista de peças:
+1x body_d.stl
+
+1x body_u.stl
+
+2x coxa_l.stl
+
+2x coxa_r.stl
+
+2x tibia_l.stl
+
+2x tibia_r.stl
+
+4x femur_1.stl
+
+8x s_hold.stl
+
+
+---------material-------------
+Here are the parts:
+
+1x Arduino Pro Mini
+
+1x DC-DC(12-5v/3A output)
+
+1x HC-06 Bluetooth module(option)
+
+12x SG90 servo(3DOF for 4 legs)
+
+1x 3000mhA Li battery (DC12300, 90x43x17mm)
+
+1x 12V Jack
+
+1x 680 Ohm 1/4 watt 5% Resistor
+
+1x 3mm Blue LED
+
+1x Tactile Switch
+
+1x 5x7cm perfboard
+
+Some male and female pin headers
+
+Small guage wire(Solid or Stranded)
